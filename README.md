@@ -3,7 +3,7 @@ An application to generate a webpage displaying information about the members of
 
 ## Descritption
 This project is a command line application that generates a team profile page for software engineering teams.
-It prompts the user to enter information about each member of the team, such as their name, role, and social media handles. This project was built to become familiar with the inquirer library, classes and testing in javascript. During the course of this project the functionality of the inquirer library was understood and used to recieve input from the user and the fs library was used to write the HTML file.
+It prompts the user to enter information about each member of the team, such as their name, role, and social media handles. This project was built to become familiar with the inquirer library, classes and testing in javascript. During the course of this project the functionality of the inquirer library was understood and used to recieve input from the user and the fs library was used to write the HTML file. The generated HTML file can be found in the output folder of this repo.
 
 ## User Story
 
@@ -55,8 +55,7 @@ It prompts the user to enter information about each member of the team, such as 
       * School
     * When a user decides to finish building their team then they exit the application, and the HTML is generated.
 
-## Browser view of application: 
+## Website view of application: 
+![Screenshot of Team-profile-generator Website view ](images/Team-profile.png)
 
 
-
-## Mobile view of application: 
